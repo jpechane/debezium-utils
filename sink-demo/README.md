@@ -48,6 +48,7 @@ To get this setup running you need
 * You need to locally build a 0.6 Debezium Connect image with
   * Debezium 0.6.0-SNAPSHOT
   * JDBC and ElasticSearch Connectors developed by Confluent
+    * JDBC Drivers must be added into libs directory
 
 ## Usage
 How to run:
